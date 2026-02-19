@@ -7,3 +7,4 @@ New line added locally.
  New Line Now
 =======
 Yet to commit this line locally
+For feature 2
