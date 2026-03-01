@@ -2,3 +2,5 @@ just a file in feature-1 bracnch
 this is modified 
 
 for feature 2
+
+Edit in feature-2
